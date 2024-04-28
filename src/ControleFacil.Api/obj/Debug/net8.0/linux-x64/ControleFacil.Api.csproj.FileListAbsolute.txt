@@ -1,0 +1,7 @@
+c:\Users\kirle\csharp\controleFacil\src\ControleFacil.Api\obj\Debug\net8.0\linux-x64\ControleFacil.Api.csproj.AssemblyReference.cache
+c:\Users\kirle\csharp\controleFacil\src\ControleFacil.Api\obj\Debug\net8.0\linux-x64\ControleFacil.Api.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kirle\csharp\controleFacil\src\ControleFacil.Api\obj\Debug\net8.0\linux-x64\ControleFacil.Api.AssemblyInfoInputs.cache
+c:\Users\kirle\csharp\controleFacil\src\ControleFacil.Api\obj\Debug\net8.0\linux-x64\ControleFacil.Api.AssemblyInfo.cs
+c:\Users\kirle\csharp\controleFacil\src\ControleFacil.Api\obj\Debug\net8.0\linux-x64\ControleFacil.Api.csproj.CoreCompileInputs.cache
+c:\Users\kirle\csharp\controleFacil\src\ControleFacil.Api\obj\Debug\net8.0\linux-x64\ControleFacil.Api.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\kirle\csharp\controleFacil\src\ControleFacil.Api\obj\Debug\net8.0\linux-x64\ControleFacil.Api.MvcApplicationPartsAssemblyInfo.cache
